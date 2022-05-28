@@ -1,0 +1,134 @@
+*
+{
+    margin:  0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+#body
+{
+    background-color: black;
+
+}
+
+.item
+{
+    display:Inline-block;
+    padding: 10px 25px 10px 70px;  
+    color: white;
+    margin-left: 50px;
+    float: right;
+}
+.item_special
+{
+    float: left;
+    display:Inline-block;
+    padding: 10px 25px 10px 10px;  
+    color: white;
+    margin-left: 0px;
+    color: white;
+}
+.active
+{
+border-bottom:  solid white;
+}
+.img
+{
+    
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
+.info
+{
+    background-color: white;
+    padding-left: 100px;
+    
+
+}
+.h2
+{
+    color: #ffa100;
+}
+.words
+{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+.btn
+{
+    background-color: white;
+    color:  #ffa100;
+    display: inline-block;
+    padding: 10px 5px 10px 5px ;
+    text-align: center;
+    border: solid #ffa100 ;
+    cursor: pointer;
+}
+.second_pic
+{
+    width: 500px;
+    height: 500px;
+    border: solid #ffa100 ;
+}
+.third_pic
+{
+    width: 500px;
+    height: 500px;
+    border: solid #ffa100 ;
+}
+.organize
+{
+    display: flex;
+    margin: 20px;
+   
+   
+}
+
+.First_div
+{
+   margin-right: 100px;
+}
+.last
+{
+    background-color: black;
+    padding-left: 100px;
+    
+}
+.s
+{
+    color: #ffa100  ;
+    font-weight: bold;
+    font-size: large;
+}
+.input
+{
+    border: solid #ffa100 ;
+    width: 31%;
+    background-color: black;
+    height: 30px;
+}
+.t
+{
+    border: solid #ffa100 ;
+    width: 30%;
+    background-color: black;
+    padding: 10px;
+}
+textarea
+{
+    border: solid #ffa100 ;
+    width: 30%;
+    background-color: black;
+    height: 150px;
+}
+.btn2
+{
+    background-color: black;
+    color:  #ffa100;
+    display: inline-block;
+    padding: 10px 5px 10px 5px ;
+    text-align: center;
+    border: solid #ffa100 ;
+    cursor: pointer;
+}
